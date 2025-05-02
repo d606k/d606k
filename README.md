@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning html, css, js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-  - t.me/@bot_dima
+  - t.me/bot_dima
   - demetriosk.work@gmail.com
 - ⚡ Fun fact: I was born on December 31st
